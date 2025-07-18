@@ -26,6 +26,8 @@ Bluestock is a full-stack IPO Management web application developed as part of an
 
 ## 📁 Folder Structure
 
+
+
 IPO_Web_App/
 ├── bluestock-frontend/ # React Frontend
 │ ├── public/
@@ -41,7 +43,9 @@ IPO_Web_App/
 ├── db.sqlite3
 └── manage.py
 
----
+
+
+
 
 ## ⚙️ Setup Instructions
 
